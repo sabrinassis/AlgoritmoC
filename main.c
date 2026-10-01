@@ -6,7 +6,7 @@
    TRABALHO: Atividade Avaliativa 02 - Algoritmo e Pensamento Computacional
    Professor: Francisco de Assis Cavallaro
    
-   Integrantes do Quarteto e RGMs:
+   Integrantes
    - Sabrina Souza de Assis (RGM: 49483731)
    - Matheus Pugliese Rodrigues (RGM: 48379298)
    - Rodrigo Veniti dos Santos (RGM: 49493973)
